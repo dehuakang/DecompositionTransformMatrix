@@ -3,18 +3,10 @@ This code is written for decomposition of Transform matrix (2017.06.01)
 
          
 ### Introduction of this codes    
-<img src = https://github.com/wjcheon/education_CTexample_wjcheon_Gate/blob/master/BeamOn.png />  
-Fig.1 Snapshot of this project (beam-on)     
+<img src = https://github.com/wjcheon/DecompositionTransformMatrix/blob/master/Slide1.PNG />  
 
   
-<img src = https://github.com/wjcheon/education_CTexample_wjcheon_Gate/blob/master/DicomPhantom.png />  
-Fig.2 Snapshot of this project (Dicom phantom)     
-
-
-<img src = https://github.com/wjcheon/education_CTexample_wjcheon_Gate/blob/master/CylindericalPhantom_Matlab.png />  
-Fig.3 Snapshot of this project (Matlab designed phantom)     
-
-
+<img src = https://github.com/wjcheon/DecompositionTransformMatrix/blob/master/Slide2.PNG />  
 
   
 .  

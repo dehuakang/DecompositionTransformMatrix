@@ -1,5 +1,5 @@
 ## About this code  
-This code is written for decomposition of Transform matrix (2017.06.01)
+This code is written for decomposition of Transform matrix (2017.11.20)
 
          
 ### Introduction of this codes    
@@ -14,7 +14,6 @@ This code is written for decomposition of Transform matrix (2017.06.01)
 .  
 .  
 .  
-date: 2017.5.30   
 All rights of this codes reserved to **Wonjoong Cheon**.  
  - Wonjoong Cheon (wonjoongcheon@gmail.com)  
 
